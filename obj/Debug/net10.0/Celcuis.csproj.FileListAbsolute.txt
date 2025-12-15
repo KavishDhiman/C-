@@ -1,0 +1,14 @@
+C:\Users\kavish dhiman\Celcuis\bin\Debug\net10.0\Celcuis.exe
+C:\Users\kavish dhiman\Celcuis\bin\Debug\net10.0\Celcuis.deps.json
+C:\Users\kavish dhiman\Celcuis\bin\Debug\net10.0\Celcuis.runtimeconfig.json
+C:\Users\kavish dhiman\Celcuis\bin\Debug\net10.0\Celcuis.dll
+C:\Users\kavish dhiman\Celcuis\bin\Debug\net10.0\Celcuis.pdb
+C:\Users\kavish dhiman\Celcuis\obj\Debug\net10.0\Celcuis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kavish dhiman\Celcuis\obj\Debug\net10.0\Celcuis.AssemblyInfoInputs.cache
+C:\Users\kavish dhiman\Celcuis\obj\Debug\net10.0\Celcuis.AssemblyInfo.cs
+C:\Users\kavish dhiman\Celcuis\obj\Debug\net10.0\Celcuis.csproj.CoreCompileInputs.cache
+C:\Users\kavish dhiman\Celcuis\obj\Debug\net10.0\Celcuis.dll
+C:\Users\kavish dhiman\Celcuis\obj\Debug\net10.0\refint\Celcuis.dll
+C:\Users\kavish dhiman\Celcuis\obj\Debug\net10.0\Celcuis.pdb
+C:\Users\kavish dhiman\Celcuis\obj\Debug\net10.0\Celcuis.genruntimeconfig.cache
+C:\Users\kavish dhiman\Celcuis\obj\Debug\net10.0\ref\Celcuis.dll
