@@ -3,8 +3,12 @@ namespace CalculatorApp
     public class PaymentService
     {
         public bool ProcessPayment(object payment)
-        {
-            return true;
-        }
+{
+    if (payment == null)
+        return false;
+
+    return true;
+}
+
     }
 }
