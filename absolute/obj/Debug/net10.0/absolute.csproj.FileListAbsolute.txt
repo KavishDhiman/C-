@@ -1,0 +1,14 @@
+E:\d3\day4\absolute\bin\Debug\net10.0\absolute.exe
+E:\d3\day4\absolute\bin\Debug\net10.0\absolute.deps.json
+E:\d3\day4\absolute\bin\Debug\net10.0\absolute.runtimeconfig.json
+E:\d3\day4\absolute\bin\Debug\net10.0\absolute.dll
+E:\d3\day4\absolute\bin\Debug\net10.0\absolute.pdb
+E:\d3\day4\absolute\obj\Debug\net10.0\absolute.GeneratedMSBuildEditorConfig.editorconfig
+E:\d3\day4\absolute\obj\Debug\net10.0\absolute.AssemblyInfoInputs.cache
+E:\d3\day4\absolute\obj\Debug\net10.0\absolute.AssemblyInfo.cs
+E:\d3\day4\absolute\obj\Debug\net10.0\absolute.csproj.CoreCompileInputs.cache
+E:\d3\day4\absolute\obj\Debug\net10.0\absolute.dll
+E:\d3\day4\absolute\obj\Debug\net10.0\refint\absolute.dll
+E:\d3\day4\absolute\obj\Debug\net10.0\absolute.pdb
+E:\d3\day4\absolute\obj\Debug\net10.0\absolute.genruntimeconfig.cache
+E:\d3\day4\absolute\obj\Debug\net10.0\ref\absolute.dll

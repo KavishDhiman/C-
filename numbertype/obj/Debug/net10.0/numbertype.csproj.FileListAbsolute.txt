@@ -1,0 +1,14 @@
+E:\d3\day4\numbertype\bin\Debug\net10.0\numbertype.exe
+E:\d3\day4\numbertype\bin\Debug\net10.0\numbertype.deps.json
+E:\d3\day4\numbertype\bin\Debug\net10.0\numbertype.runtimeconfig.json
+E:\d3\day4\numbertype\bin\Debug\net10.0\numbertype.dll
+E:\d3\day4\numbertype\bin\Debug\net10.0\numbertype.pdb
+E:\d3\day4\numbertype\obj\Debug\net10.0\numbertype.GeneratedMSBuildEditorConfig.editorconfig
+E:\d3\day4\numbertype\obj\Debug\net10.0\numbertype.AssemblyInfoInputs.cache
+E:\d3\day4\numbertype\obj\Debug\net10.0\numbertype.AssemblyInfo.cs
+E:\d3\day4\numbertype\obj\Debug\net10.0\numbertype.csproj.CoreCompileInputs.cache
+E:\d3\day4\numbertype\obj\Debug\net10.0\numbertype.dll
+E:\d3\day4\numbertype\obj\Debug\net10.0\refint\numbertype.dll
+E:\d3\day4\numbertype\obj\Debug\net10.0\numbertype.pdb
+E:\d3\day4\numbertype\obj\Debug\net10.0\numbertype.genruntimeconfig.cache
+E:\d3\day4\numbertype\obj\Debug\net10.0\ref\numbertype.dll

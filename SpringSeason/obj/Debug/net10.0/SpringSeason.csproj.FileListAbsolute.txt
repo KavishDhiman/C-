@@ -1,0 +1,14 @@
+E:\d3\day4\SpringSeason\bin\Debug\net10.0\SpringSeason.exe
+E:\d3\day4\SpringSeason\bin\Debug\net10.0\SpringSeason.deps.json
+E:\d3\day4\SpringSeason\bin\Debug\net10.0\SpringSeason.runtimeconfig.json
+E:\d3\day4\SpringSeason\bin\Debug\net10.0\SpringSeason.dll
+E:\d3\day4\SpringSeason\bin\Debug\net10.0\SpringSeason.pdb
+E:\d3\day4\SpringSeason\obj\Debug\net10.0\SpringSeason.GeneratedMSBuildEditorConfig.editorconfig
+E:\d3\day4\SpringSeason\obj\Debug\net10.0\SpringSeason.AssemblyInfoInputs.cache
+E:\d3\day4\SpringSeason\obj\Debug\net10.0\SpringSeason.AssemblyInfo.cs
+E:\d3\day4\SpringSeason\obj\Debug\net10.0\SpringSeason.csproj.CoreCompileInputs.cache
+E:\d3\day4\SpringSeason\obj\Debug\net10.0\SpringSeason.dll
+E:\d3\day4\SpringSeason\obj\Debug\net10.0\refint\SpringSeason.dll
+E:\d3\day4\SpringSeason\obj\Debug\net10.0\SpringSeason.pdb
+E:\d3\day4\SpringSeason\obj\Debug\net10.0\SpringSeason.genruntimeconfig.cache
+E:\d3\day4\SpringSeason\obj\Debug\net10.0\ref\SpringSeason.dll
