@@ -1,0 +1,14 @@
+C:\Users\kavish dhiman\d3\d3p1\bin\Debug\net10.0\d3p1.exe
+C:\Users\kavish dhiman\d3\d3p1\bin\Debug\net10.0\d3p1.deps.json
+C:\Users\kavish dhiman\d3\d3p1\bin\Debug\net10.0\d3p1.runtimeconfig.json
+C:\Users\kavish dhiman\d3\d3p1\bin\Debug\net10.0\d3p1.dll
+C:\Users\kavish dhiman\d3\d3p1\bin\Debug\net10.0\d3p1.pdb
+C:\Users\kavish dhiman\d3\d3p1\obj\Debug\net10.0\d3p1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kavish dhiman\d3\d3p1\obj\Debug\net10.0\d3p1.AssemblyInfoInputs.cache
+C:\Users\kavish dhiman\d3\d3p1\obj\Debug\net10.0\d3p1.AssemblyInfo.cs
+C:\Users\kavish dhiman\d3\d3p1\obj\Debug\net10.0\d3p1.csproj.CoreCompileInputs.cache
+C:\Users\kavish dhiman\d3\d3p1\obj\Debug\net10.0\d3p1.dll
+C:\Users\kavish dhiman\d3\d3p1\obj\Debug\net10.0\refint\d3p1.dll
+C:\Users\kavish dhiman\d3\d3p1\obj\Debug\net10.0\d3p1.pdb
+C:\Users\kavish dhiman\d3\d3p1\obj\Debug\net10.0\d3p1.genruntimeconfig.cache
+C:\Users\kavish dhiman\d3\d3p1\obj\Debug\net10.0\ref\d3p1.dll

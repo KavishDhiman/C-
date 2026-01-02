@@ -1,0 +1,14 @@
+C:\Users\kavish dhiman\d3\p5\bin\Debug\net10.0\p5.exe
+C:\Users\kavish dhiman\d3\p5\bin\Debug\net10.0\p5.deps.json
+C:\Users\kavish dhiman\d3\p5\bin\Debug\net10.0\p5.runtimeconfig.json
+C:\Users\kavish dhiman\d3\p5\bin\Debug\net10.0\p5.dll
+C:\Users\kavish dhiman\d3\p5\bin\Debug\net10.0\p5.pdb
+C:\Users\kavish dhiman\d3\p5\obj\Debug\net10.0\p5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kavish dhiman\d3\p5\obj\Debug\net10.0\p5.AssemblyInfoInputs.cache
+C:\Users\kavish dhiman\d3\p5\obj\Debug\net10.0\p5.AssemblyInfo.cs
+C:\Users\kavish dhiman\d3\p5\obj\Debug\net10.0\p5.csproj.CoreCompileInputs.cache
+C:\Users\kavish dhiman\d3\p5\obj\Debug\net10.0\p5.dll
+C:\Users\kavish dhiman\d3\p5\obj\Debug\net10.0\refint\p5.dll
+C:\Users\kavish dhiman\d3\p5\obj\Debug\net10.0\p5.pdb
+C:\Users\kavish dhiman\d3\p5\obj\Debug\net10.0\p5.genruntimeconfig.cache
+C:\Users\kavish dhiman\d3\p5\obj\Debug\net10.0\ref\p5.dll
