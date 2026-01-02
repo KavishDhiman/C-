@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿class CalendarProgram
+{
+    static bool IsLeap(int y) =>
+        (y % 4 == 0 && y % 100 != 0) || y % 400 == 0;
+}

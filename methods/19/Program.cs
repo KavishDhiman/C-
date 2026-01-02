@@ -1,2 +1,31 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+
+class NumberAnalysis
+{
+    static bool IsPositive(int n) => n >= 0;
+    static bool IsEven(int n) => n % 2 == 0;
+
+    static int Compare(int a, int b)
+    {
+        if (a > b) return 1;
+        if (a == b) return 0;
+        return -1;
+    }
+
+    static void Main()
+    {
+        int[] arr = new int[5];
+
+        for (int i = 0; i < 5; i++)
+        {
+            arr[i] = int.Parse(Console.ReadLine());
+            if (IsPositive(arr[i]))
+                Console.WriteLine(IsEven(arr[i]) ? "Positive Even" : "Positive Odd");
+            else
+                Console.WriteLine("Negative");
+        }
+
+        int result = Compare(arr[0], arr[4]);
+        Console.WriteLine(result == 0 ? "Equal" : result > 0 ? "Greater" : "Less");
+    }
+}
